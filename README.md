@@ -11,6 +11,8 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 2: [Find Customer Referee](easy/Find_Customer_Referee.sql)
 - [x] Problem 3: [Big Countries](easy/Big_Countries.sql)
 - [x] Problem 4: [Article Views I](easy/Article_Views_I.sql)
+- [x] Problem 5: [Article Views I](easy/Invalid_Tweets.sql)
+
 
 ---
 
