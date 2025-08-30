@@ -7,10 +7,10 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 ---
 
 ## ✅ Progress
-- [x] Problem 1: [Recyclable and Low Fat Products](easy/recyclable_and_low_fat_products.sql)
-- [x] Problem 2: [Find Customer Referee](easy/find_customer_referee.sql)
-- [x] Problem 3: [Big Countries](easy/big_countries.sql)
-- 
+- [x] Problem 1: [Recyclable and Low Fat Products](easy/Recyclable_and_Low_Fat_Products.sql)
+- [x] Problem 2: [Find Customer Referee](easy/Find_Customer_Referee.sql)
+- [x] Problem 3: [Big Countries](easy/Big_Countries.sql)
+- [x] Problem 4: [Article Views I](easy/Article_Views_I.sql)
 
 ---
 
