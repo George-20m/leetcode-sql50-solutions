@@ -9,8 +9,8 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 ## ✅ Progress
 - [x] Problem 1: [Recyclable and Low Fat Products](easy/recyclable_and_low_fat_products.sql)
 - [x] Problem 2: [Find Customer Referee](easy/find_customer_referee.sql)
-- [ ] Problem 3: ...
-- [ ] ... up to 50
+- [x] Problem 3: [Big Countries](easy/big_countries.sql)
+- 
 
 ---
 
