@@ -14,6 +14,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 5: [Article Views I](easy/Invalid_Tweets.sql)
 - [x] Problem 6: [Replace Employee ID With The Unique Identifier](easy/Replace_Employee_ID_With_The_Unique_Identifier.sql)
 - [x] Problem 7: [Product Sales Analysis I](easy/Product_Sales_Analysis_I.sql)
+- [x] Problem 8: [Customer Who Visited but Did Not Make Any Transactions](easy\Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 
 
 ---
