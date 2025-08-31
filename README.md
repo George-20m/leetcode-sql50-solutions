@@ -13,6 +13,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 4: [Article Views I](easy/Article_Views_I.sql)
 - [x] Problem 5: [Article Views I](easy/Invalid_Tweets.sql)
 - [x] Problem 6: [Replace Employee ID With The Unique Identifier](easy/Replace_Employee_ID_With_The_Unique_Identifier.sql)
+- [x] Problem 7: [Product Sales Analysis I](easy/Product_Sales_Analysis_I.sql)
 
 
 ---
