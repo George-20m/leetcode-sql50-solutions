@@ -16,7 +16,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 7: [Product Sales Analysis I](easy/Product_Sales_Analysis_I.sql)
 - [x] Problem 8: [Customer Who Visited but Did Not Make Any Transactions](easy\Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 - [x] Problem 9: [Rising Temperature](easy\Rising_Temperature.sql)
-
+- [x] Problem 10: [Average Time of Process per Machine](easy\Average_Time_of_Process_per_Machine.sql)
 
 ---
 
