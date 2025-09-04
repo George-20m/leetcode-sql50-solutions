@@ -18,6 +18,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 9: [Rising Temperature](easy\Rising_Temperature.sql)
 - [x] Problem 10: [Average Time of Process per Machine](easy\Average_Time_of_Process_per_Machine.sql)
 - [x] Problem 11: [Employee Bonus](easy\Employee_Bonus.sql)
+- [x] Problem 12: [Students and Examinations](easy\Students_and_Examinations.sql)
 
 ---
 
