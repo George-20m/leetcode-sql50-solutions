@@ -20,6 +20,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 11: [Employee Bonus](easy\Employee_Bonus.sql)
 - [x] Problem 12: [Students and Examinations](easy\Students_and_Examinations.sql)
 - [x] Problem 13: [Managers with at Least 5 Direct Reports](easy\Managers_with_at_Least_5_Direct_Reports.sql)
+- [x] Problem 14: [Confirmation Rate](easy\Confirmation_Rate.sql)
 
 ---
 
