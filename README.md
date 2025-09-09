@@ -28,17 +28,6 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 
 ---
 
-## 📂 Folder Structure
-leetcode-sql50-solutions/
-├── easy/ → Easy problems
-├── medium/ → Medium problems
-├── hard/ → Hard problems
-└── README.md → Overview and progress tracking
-
-
-
----
-
 ## 🔗 Links
 - [My LeetCode Profile](https://leetcode.com/George-20m/)
 - [GitHub Repo](https://github.com/George-20m/leetcode-sql50-solutions)
