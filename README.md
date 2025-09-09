@@ -23,7 +23,8 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 14: [Confirmation Rate](easy\Confirmation_Rate.sql)
 - [x] Problem 15: [Not Boring Movies](easy\Not_Boring_Movies.sql)
 - [x] Problem 16: [Average Selling Price](easy\Average_Selling_Price.sql)
-- [x] Problem 17: [Project Employees I](easy/Project_Employees_I.sql)
+- [x] Problem 17: [Project Employees I](easy\Project_Employees_I.sql)
+- [x] Problem 17: [Percentage of Users Attended a Contest](easy\Percentage_of_Users_Attended_a_Contest.sql)
 
 ---
 
