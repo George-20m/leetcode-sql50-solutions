@@ -21,6 +21,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 12: [Students and Examinations](easy\Students_and_Examinations.sql)
 - [x] Problem 13: [Managers with at Least 5 Direct Reports](easy\Managers_with_at_Least_5_Direct_Reports.sql)
 - [x] Problem 14: [Confirmation Rate](easy\Confirmation_Rate.sql)
+- [x] Problem 15: [Not Boring Movies](easy\Not_Boring_Movies.sql)
 
 ---
 
