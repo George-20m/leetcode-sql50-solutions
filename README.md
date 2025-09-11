@@ -25,6 +25,7 @@ Problems are organized by difficulty (`easy/`, `medium/`, `hard/`).
 - [x] Problem 16: [Average Selling Price](easy/average_selling_price.sql)
 - [x] Problem 17: [Project Employees I](easy/project_employees_i.sql)
 - [x] Problem 18: [Percentage of Users Attended a Contest](easy/percentage_of_users_attended_a_contest.sql)
+- [x] Problem 19: [Queries Quality and Percentage](easy\queries_quality_and_percentage.sql)
 
 ---
 
